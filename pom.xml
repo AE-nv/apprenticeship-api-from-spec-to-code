@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>be.ae</groupId>
-	<artifactId>accountservice</artifactId>
+	<artifactId>accountservice-groupt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>accountservice</name>
+	<name>accountservice-demo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
