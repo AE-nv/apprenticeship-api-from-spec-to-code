@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="apprenticeship-api-from-spec-to-code" />
+        <module name="accountservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="accountservice" target="1.8" />
       <module name="apprenticeship-api-from-spec-to-code" target="1.8" />
     </bytecodeTargetLevel>
   </component>
